@@ -1,0 +1,227 @@
+.about-page {
+    background: #efefef;
+}
+
+.about-hero {
+    padding: 70px 20px 110px;
+    text-align: center;
+}
+
+.about-hero h1 {
+    font-size: 58px;
+    line-height: 68px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    color: #111;
+}
+
+.about-hero p {
+    width: 700px;
+    max-width: 100%;
+    margin: 0 auto;
+    font-size: 18px;
+    line-height: 30px;
+    color: #5e5e5e;
+}
+
+.mission-section {
+    width: 1120px;
+    max-width: calc(100% - 48px);
+    margin: 0 auto;
+    padding: 20px 0 90px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 70px;
+}
+
+.mission-image {
+    width: 48%;
+}
+
+.mission-image img {
+    width: 100%;
+    display: block;
+    object-fit: cover;
+}
+
+.mission-content {
+    width: 48%;
+}
+
+.mission-content h2 {
+    font-size: 42px;
+    line-height: 52px;
+    font-weight: 400;
+    color: #111;
+    margin-bottom: 22px;
+}
+
+.mission-content p {
+    font-size: 18px;
+    line-height: 32px;
+    color: #4d4d4d;
+    margin-bottom: 22px;
+}
+
+.values-section {
+    width: 1280px;
+    max-width: calc(100% - 48px);
+    margin: 0 auto;
+    padding: 40px 0 110px;
+    text-align: center;
+}
+
+.values-section h2 {
+    font-size: 48px;
+    line-height: 58px;
+    font-weight: 400;
+    color: #111;
+    margin-bottom: 40px;
+}
+
+.values-row {
+    display: flex;
+    justify-content: center;
+    gap: 26px;
+    flex-wrap: wrap;
+}
+
+.value-card {
+    width: 380px;
+    min-height: 275px;
+    background: #fff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+    padding: 42px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.value-card i {
+    font-size: 34px;
+    color: #222;
+    margin-bottom: 28px;
+}
+
+.value-card h3 {
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: 400;
+    color: #111;
+    margin-bottom: 12px;
+}
+
+.value-card p {
+    font-size: 16px;
+    line-height: 30px;
+    color: #555;
+}
+
+.team-section {
+    width: 1280px;
+    max-width: calc(100% - 48px);
+    margin: 0 auto;
+    padding: 20px 0 110px;
+    text-align: center;
+}
+
+.team-section h2 {
+    font-size: 44px;
+    line-height: 54px;
+    font-weight: 400;
+    color: #111;
+    margin-bottom: 60px;
+}
+
+.team-row {
+    display: flex;
+    justify-content: center;
+    gap: 44px;
+    flex-wrap: wrap;
+}
+
+.team-card {
+    width: 230px;
+    text-align: center;
+}
+
+.team-card img {
+    width: 176px;
+    height: 176px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+.team-card h3 {
+    font-size: 22px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #111;
+    margin-bottom: 4px;
+}
+
+.team-card p {
+    font-size: 16px;
+    line-height: 24px;
+    color: #555;
+}
+
+@media (max-width: 992px) {
+    .about-hero h1,
+    .values-section h2,
+    .team-section h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .mission-section {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .mission-image,
+    .mission-content {
+        width: 100%;
+    }
+
+    .value-card {
+        width: 100%;
+        max-width: 500px;
+    }
+}
+
+@media (max-width: 576px) {
+    .about-hero {
+        padding: 50px 20px 70px;
+    }
+
+    .about-hero h1,
+    .mission-content h2,
+    .values-section h2,
+    .team-section h2 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+
+    .about-hero p,
+    .mission-content p,
+    .value-card p,
+    .team-card p {
+        font-size: 15px;
+        line-height: 26px;
+    }
+
+    .mission-section,
+    .values-section,
+    .team-section {
+        max-width: calc(100% - 32px);
+    }
+
+    .team-card {
+        width: 100%;
+    }
+}

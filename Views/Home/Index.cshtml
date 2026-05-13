@@ -1,0 +1,87 @@
+﻿@using FurnishMvc.ViewModels
+@model HomeVM
+
+<section class="intro-slider">
+    <i class="fa-solid fa-arrow-left-long arrows"></i>
+    @foreach (Slider slider in Model.Sliders)
+    {
+        <div class="slide-card">
+            <h4 class="poppins-regular-italic">%25 Sell</h4>
+            <h1>Crafted royal comfort sofa</h1>
+            <img src="~/assets/images/slider-img-3.png" alt="Crafted royal comfort sofa">
+            <p>Experience the elegance of timeless craftsmanship with our Sofa.</p>
+            <p class="price poppins-bold">$89</p>
+            <a href="#">View Details</a>
+        </div>
+    }
+    
+    <i class="fa-solid fa-arrow-right-long arrows arrow-passive"></i>
+</section>
+
+<section class="collection-section">
+    <div class="section-inner">
+        <div class="collection-title">
+            <h2>Our Favourite Collection</h2>
+            <p>
+                We are inspired by the realities of life today, in which traditional divides between personal and
+                professional space are more fluid.
+            </p>
+        </div>
+
+        <div class="products-row">
+            <div class="product-card">
+                <div class="product-img-box">
+                    <img src="~/assets/images/collection-chair.png" alt="Modern Chair">
+                </div>
+                <h3>Modern Chair</h3>
+                <p><del>$59.00</del> $29.00</p>
+            </div>
+
+            <div class="product-card">
+                <div class="product-img-box">
+                    <img src="~/assets/images/collection-lamp.png" alt="Floor Lamp">
+                </div>
+                <h3>Floor Lamp</h3>
+                <p><del>$95.00</del> $89.00</p>
+            </div>
+
+            <div class="product-card">
+                <div class="product-img-box">
+                    <img src="~/assets/images/collection-boss-chair.png" alt="High Back Boss Chair">
+                </div>
+                <h3>High Back Boss Chair</h3>
+                <p><del>$78.00</del> $68.00</p>
+            </div>
+        </div>
+
+        <div class="slider-dots">
+            <span class="active-dot"></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+</section>
+
+<section class="testimonial-section">
+    <div class="testimonial-bg">
+        <div class="testimonial-card">
+            <p class="poppins-regular-italic">
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in
+                culpa qui officia deserunt mollit anim id est laborum."
+            </p>
+            <h3>John Deo</h3>
+            <span>CEO, Company Name</span>
+        </div>
+    </div>
+
+    <div class="newsletter">
+        <h2>Subscribe to our Newsletter</h2>
+        <form action="#">
+            <input type="email" placeholder="Enter your email">
+            <button type="submit">Subscribe</button>
+        </form>
+    </div>
+</section>
+<div>

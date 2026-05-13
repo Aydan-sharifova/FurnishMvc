@@ -1,0 +1,12 @@
+wwwroot\assets\css\about.css
+wwwroot\assets\css\global.css
+wwwroot\assets\images\about-store.jpg
+wwwroot\assets\images\collection-boss-chair.png
+wwwroot\assets\images\collection-chair.png
+wwwroot\assets\images\collection-lamp.png
+wwwroot\assets\images\slider-img-3.png
+wwwroot\assets\images\team-1.jpg
+wwwroot\assets\images\team-2.jpg
+wwwroot\assets\images\team-3.jpg
+wwwroot\assets\images\team-4.jpg
+wwwroot\assets\images\testimonial-bg.jpg
