@@ -4,7 +4,7 @@ namespace FurnishMvc.ViewModels
 {
     public class HomeVM
     {
-        public List<Slider> Sliders { get; set; }
-        public List<Product> Products { get; set; }
+        public List<Slider> Sliders { get; set; } = new();
+        public List<Product> Products { get; set; } = new();
     }
 }

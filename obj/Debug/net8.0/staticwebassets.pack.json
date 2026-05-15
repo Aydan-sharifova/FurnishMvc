@@ -1,71 +1,67 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\css\\about.css",
-      "PackagePath": "staticwebassets\\assets\\css\\about.css"
+      "Id": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/css/about.css",
+      "PackagePath": "staticwebassets/assets/css/about.css"
     },
     {
-      "Id": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\css\\global.css",
-      "PackagePath": "staticwebassets\\assets\\css\\global.css"
+      "Id": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/css/global.css",
+      "PackagePath": "staticwebassets/assets/css/global.css"
     },
     {
-      "Id": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\about-store.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\about-store.jpg"
+      "Id": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/images/about-store.jpg",
+      "PackagePath": "staticwebassets/assets/images/about-store.jpg"
     },
     {
-      "Id": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\collection-boss-chair.png",
-      "PackagePath": "staticwebassets\\assets\\images\\collection-boss-chair.png"
+      "Id": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/images/collection-boss-chair.png",
+      "PackagePath": "staticwebassets/assets/images/collection-boss-chair.png"
     },
     {
-      "Id": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\collection-chair.png",
-      "PackagePath": "staticwebassets\\assets\\images\\collection-chair.png"
+      "Id": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/images/collection-chair.png",
+      "PackagePath": "staticwebassets/assets/images/collection-chair.png"
     },
     {
-      "Id": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\collection-lamp.png",
-      "PackagePath": "staticwebassets\\assets\\images\\collection-lamp.png"
+      "Id": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/images/collection-lamp.png",
+      "PackagePath": "staticwebassets/assets/images/collection-lamp.png"
     },
     {
-      "Id": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\slider-img-3.png",
-      "PackagePath": "staticwebassets\\assets\\images\\slider-img-3.png"
+      "Id": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/images/slider-img-3.png",
+      "PackagePath": "staticwebassets/assets/images/slider-img-3.png"
     },
     {
-      "Id": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\team-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\team-1.jpg"
+      "Id": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/images/team-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/team-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\team-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\team-2.jpg"
+      "Id": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/images/team-2.jpg",
+      "PackagePath": "staticwebassets/assets/images/team-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\team-3.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\team-3.jpg"
+      "Id": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/images/team-3.jpg",
+      "PackagePath": "staticwebassets/assets/images/team-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\team-4.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\team-4.jpg"
+      "Id": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/images/team-4.jpg",
+      "PackagePath": "staticwebassets/assets/images/team-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\testimonial-bg.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\testimonial-bg.jpg"
+      "Id": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/images/testimonial-bg.jpg",
+      "PackagePath": "staticwebassets/assets/images/testimonial-bg.jpg"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FurnishMvc.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
-      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
-    },
-    {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FurnishMvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.FurnishMvc.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FurnishMvc.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.FurnishMvc.props",
       "PackagePath": "build\\FurnishMvc.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FurnishMvc.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FurnishMvc.props",
       "PackagePath": "buildMultiTargeting\\FurnishMvc.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FurnishMvc.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FurnishMvc.props",
       "PackagePath": "buildTransitive\\FurnishMvc.props"
     }
   ],

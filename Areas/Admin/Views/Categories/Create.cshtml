@@ -1,0 +1,44 @@
+@model Category
+
+@{
+    ViewData["Title"] = "Add Category";
+}
+
+<div class="page-header">
+    <div>
+        <h1>Add Category</h1>
+        <p>Categories group products across the catalog.</p>
+    </div>
+    <a class="btn btn-light" asp-area="Admin" asp-controller="Categories" asp-action="Index">Back to List</a>
+</div>
+
+<section class="panel">
+    <div class="panel-body">
+        <form asp-action="Create" method="post" class="form-grid">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-row">
+                <label asp-for="Name"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-row">
+                <label asp-for="Slug"></label>
+                <input asp-for="Slug" class="form-control" />
+                <span asp-validation-for="Slug" class="text-danger"></span>
+            </div>
+
+            <div class="form-row">
+                <label asp-for="Icon"></label>
+                <input asp-for="Icon" class="form-control" />
+                <span asp-validation-for="Icon" class="text-danger"></span>
+            </div>
+
+            <div class="actions">
+                <button type="submit" class="btn btn-primary">Create</button>
+                <a class="btn btn-light" asp-area="Admin" asp-controller="Categories" asp-action="Index">Cancel</a>
+            </div>
+        </form>
+    </div>
+</section>

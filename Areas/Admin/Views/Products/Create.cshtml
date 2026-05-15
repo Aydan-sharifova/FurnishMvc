@@ -1,0 +1,75 @@
+@model Product
+
+@{
+    ViewData["Title"] = "Add Product";
+}
+
+<div class="page-header">
+    <div>
+        <h1>Add Product</h1>
+        <p>Add a product to the Furnish catalog.</p>
+    </div>
+    <a class="btn btn-light" asp-area="Admin" asp-controller="Products" asp-action="Index">Back to List</a>
+</div>
+
+<section class="panel">
+    <div class="panel-body">
+        <form asp-action="Create" method="post" class="form-grid">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-row">
+                <label asp-for="Name"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-row">
+                <label asp-for="Description"></label>
+                <textarea asp-for="Description" class="form-control"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-row">
+                <label asp-for="CategoryId">Category</label>
+                <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.CategoryId">
+                    <option value="">Select category</option>
+                </select>
+                <span asp-validation-for="CategoryId" class="text-danger"></span>
+            </div>
+
+            <div class="form-row">
+                <label asp-for="Price"></label>
+                <input asp-for="Price" class="form-control" type="number" min="0" step="0.01" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+
+            <div class="form-row">
+                <label asp-for="OldPrice"></label>
+                <input asp-for="OldPrice" class="form-control" type="number" min="0" step="0.01" />
+                <span asp-validation-for="OldPrice" class="text-danger"></span>
+            </div>
+
+            <div class="form-row">
+                <label asp-for="StockCount"></label>
+                <input asp-for="StockCount" class="form-control" type="number" min="0" />
+                <span asp-validation-for="StockCount" class="text-danger"></span>
+            </div>
+
+            <div class="form-row">
+                <label asp-for="ImageUrl"></label>
+                <input asp-for="ImageUrl" class="form-control" />
+                <span asp-validation-for="ImageUrl" class="text-danger"></span>
+            </div>
+
+            <div class="check-row">
+                <input asp-for="IsFeatured" />
+                <label asp-for="IsFeatured"></label>
+            </div>
+
+            <div class="actions">
+                <button type="submit" class="btn btn-primary">Create</button>
+                <a class="btn btn-light" asp-area="Admin" asp-controller="Products" asp-action="Index">Cancel</a>
+            </div>
+        </form>
+    </div>
+</section>

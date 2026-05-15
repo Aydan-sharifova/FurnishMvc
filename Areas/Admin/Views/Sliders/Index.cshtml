@@ -1,0 +1,72 @@
+@model IEnumerable<Slider>
+
+@{
+    ViewData["Title"] = "Sliders";
+}
+
+<div class="page-header">
+    <div>
+        <h1>Sliders</h1>
+        <p>Create and manage homepage slider content.</p>
+    </div>
+    <a class="btn btn-primary" asp-area="Admin" asp-controller="Sliders" asp-action="Create">Add Slider</a>
+</div>
+
+<section class="panel">
+    @if (Model.Any())
+    {
+        <div class="table-wrap">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Image</th>
+                        <th>Title</th>
+                        <th>Discount</th>
+                        <th>Price</th>
+                        <th>Order</th>
+                        <th>Status</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (Slider slider in Model)
+                    {
+                        <tr>
+                            <td>
+                                @if (!string.IsNullOrWhiteSpace(slider.ImageUrl))
+                                {
+                                    <img class="thumb" src="@slider.ImageUrl" alt="@slider.Title" />
+                                }
+                            </td>
+                            <td>@slider.Title</td>
+                            <td>@slider.DiscountText</td>
+                            <td>@slider.Price.ToString("C")</td>
+                            <td>@slider.Order</td>
+                            <td>
+                                @if (slider.IsActive)
+                                {
+                                    <span class="badge badge-ok">Active</span>
+                                }
+                                else
+                                {
+                                    <span class="badge badge-muted">Inactive</span>
+                                }
+                            </td>
+                            <td>
+                                <div class="actions">
+                                    <a class="btn btn-light" asp-area="Admin" asp-controller="Sliders" asp-action="Details" asp-route-id="@slider.Id">Details</a>
+                                    <a class="btn btn-primary" asp-area="Admin" asp-controller="Sliders" asp-action="Edit" asp-route-id="@slider.Id">Edit</a>
+                                    <a class="btn btn-danger" asp-area="Admin" asp-controller="Sliders" asp-action="Delete" asp-route-id="@slider.Id">Delete</a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+    else
+    {
+        <div class="empty-state">No sliders have been added yet.</div>
+    }
+</section>

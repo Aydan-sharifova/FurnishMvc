@@ -1,0 +1,42 @@
+@model Slider
+
+@{
+    ViewData["Title"] = "Delete Slider";
+}
+
+<div class="page-header">
+    <div>
+        <h1>Delete Slider</h1>
+        <p>Confirm slider removal.</p>
+    </div>
+    <a class="btn btn-light" asp-area="Admin" asp-controller="Sliders" asp-action="Index">Back to List</a>
+</div>
+
+<section class="panel">
+    <div class="panel-body">
+        <dl class="detail-list">
+            <div class="detail-row">
+                <dt>Title</dt>
+                <dd>@Model.Title</dd>
+            </div>
+            <div class="detail-row">
+                <dt>Discount</dt>
+                <dd>@Model.DiscountText</dd>
+            </div>
+            <div class="detail-row">
+                <dt>Order</dt>
+                <dd>@Model.Order</dd>
+            </div>
+            <div class="detail-row">
+                <dt>Active</dt>
+                <dd>@(Model.IsActive ? "Yes" : "No")</dd>
+            </div>
+        </dl>
+
+        <form asp-action="Delete" method="post" class="actions" style="margin-top: 22px;">
+            <input type="hidden" asp-for="Id" />
+            <button type="submit" class="btn btn-danger">Delete</button>
+            <a class="btn btn-light" asp-area="Admin" asp-controller="Sliders" asp-action="Index">Cancel</a>
+        </form>
+    </div>
+</section>

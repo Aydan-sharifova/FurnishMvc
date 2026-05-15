@@ -1,0 +1,42 @@
+@model Product
+
+@{
+    ViewData["Title"] = "Delete Product";
+}
+
+<div class="page-header">
+    <div>
+        <h1>Delete Product</h1>
+        <p>Confirm product removal.</p>
+    </div>
+    <a class="btn btn-light" asp-area="Admin" asp-controller="Products" asp-action="Index">Back to List</a>
+</div>
+
+<section class="panel">
+    <div class="panel-body">
+        <dl class="detail-list">
+            <div class="detail-row">
+                <dt>Name</dt>
+                <dd>@Model.Name</dd>
+            </div>
+            <div class="detail-row">
+                <dt>Category</dt>
+                <dd>@Model.Category?.Name</dd>
+            </div>
+            <div class="detail-row">
+                <dt>Price</dt>
+                <dd>@Model.Price.ToString("C")</dd>
+            </div>
+            <div class="detail-row">
+                <dt>Stock</dt>
+                <dd>@Model.StockCount</dd>
+            </div>
+        </dl>
+
+        <form asp-action="Delete" method="post" class="actions" style="margin-top: 22px;">
+            <input type="hidden" asp-for="Id" />
+            <button type="submit" class="btn btn-danger">Delete</button>
+            <a class="btn btn-light" asp-area="Admin" asp-controller="Products" asp-action="Index">Cancel</a>
+        </form>
+    </div>
+</section>

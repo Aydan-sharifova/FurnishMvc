@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../usr/local/share/dotnet/sdk/8.0.420/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets">
+    <Files>
+      <File FileName="appsettings.json" Line="3" Column="63" />
+      <File FileName="Areas/Admin/Controllers/CategoriesController.cs" Line="10" Column="2" />
+      <File FileName="Areas/Admin/Controllers/DashboardController.cs" Line="1" Column="1" />
+      <File FileName="Areas/Admin/Controllers/ProductsController.cs" />
+      <File FileName="Areas/Admin/Controllers/SlidersController.cs" />
+      <File FileName="Areas/Admin/Views/Categories/Create.cshtml" />
+      <File FileName="Areas/Admin/Views/Categories/Delete.cshtml" />
+      <File FileName="Areas/Admin/Views/Categories/Details.cshtml" />
+      <File FileName="Areas/Admin/Views/Categories/Edit.cshtml" />
+      <File FileName="Areas/Admin/Views/Dashboard/Index.cshtml" />
+      <File FileName="Program.cs" Line="8" Column="72" />
+      <File FileName="Data/AppDbContext.cs" Line="1" Column="1" />
+      <File FileName="Models/Slider.cs" Line="1" Column="1" />
+      <File FileName="Controllers/HomeController.cs" Line="30" Column="1" />
+      <File FileName="../../../../usr/local/share/dotnet/sdk/8.0.420/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" Line="266" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FurnishMvc">
+            <Node name="FurnishMvc">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FurnishMvc PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

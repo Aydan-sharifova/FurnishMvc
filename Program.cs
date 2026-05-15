@@ -1,17 +1,11 @@
 using FurnishMvc.Data;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Options;
-using System;
 
 var builder = WebApplication.CreateBuilder(args);
 
-var connectionString = builder.Configuration.GetConnectionString("Default");
-
 builder.Services.AddControllersWithViews();
-//builder.Services.AddDbContext<AppDbContext>(opt =>
-//    opt.UseNpgsql(builder.Configuration.GetConnectionString("Default")));
 builder.Services.AddDbContext<AppDbContext>(opt =>
-    opt.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
+    opt.UseNpgsql(builder.Configuration.GetConnectionString("PostgreSql")));
 
 var app = builder.Build();
 

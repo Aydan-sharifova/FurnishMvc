@@ -1,0 +1,64 @@
+@model Product
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<div class="page-header">
+    <div>
+        <h1>@Model.Name</h1>
+        <p>Product details.</p>
+    </div>
+    <div class="actions">
+        <a class="btn btn-primary" asp-area="Admin" asp-controller="Products" asp-action="Edit" asp-route-id="@Model.Id">Edit</a>
+        <a class="btn btn-light" asp-area="Admin" asp-controller="Products" asp-action="Index">Back to List</a>
+    </div>
+</div>
+
+<section class="panel">
+    <div class="panel-body">
+        <dl class="detail-list">
+            <div class="detail-row">
+                <dt>Image</dt>
+                <dd>
+                    @if (!string.IsNullOrWhiteSpace(Model.ImageUrl))
+                    {
+                        <img class="thumb" src="@Model.ImageUrl" alt="@Model.Name" />
+                    }
+                    else
+                    {
+                        <span>-</span>
+                    }
+                </dd>
+            </div>
+            <div class="detail-row">
+                <dt>Name</dt>
+                <dd>@Model.Name</dd>
+            </div>
+            <div class="detail-row">
+                <dt>Description</dt>
+                <dd>@Model.Description</dd>
+            </div>
+            <div class="detail-row">
+                <dt>Category</dt>
+                <dd>@Model.Category?.Name</dd>
+            </div>
+            <div class="detail-row">
+                <dt>Price</dt>
+                <dd>@Model.Price.ToString("C")</dd>
+            </div>
+            <div class="detail-row">
+                <dt>Old Price</dt>
+                <dd>@Model.OldPrice.ToString("C")</dd>
+            </div>
+            <div class="detail-row">
+                <dt>Stock</dt>
+                <dd>@Model.StockCount</dd>
+            </div>
+            <div class="detail-row">
+                <dt>Featured</dt>
+                <dd>@(Model.IsFeatured ? "Yes" : "No")</dd>
+            </div>
+        </dl>
+    </div>
+</section>

@@ -3,10 +3,24 @@
 
 <section class="intro-slider">
     <i class="fa-solid fa-arrow-left-long arrows"></i>
-    @foreach (Slider slider in Model.Sliders)
+    @if (Model.Sliders.Any())
+    {
+        @foreach (Slider slider in Model.Sliders)
+        {
+            <div class="slide-card">
+                <h4 class="poppins-regular-italic">@slider.DiscountText</h4>
+                <h1>@slider.Title</h1>
+                <img src="@Url.Content(slider.ImageUrl)" alt="@slider.Title">
+                <p>@slider.Description</p>
+                <p class="price poppins-bold">@slider.Price.ToString("C")</p>
+                <a href="@slider.ButtonLink">@slider.ButtonText</a>
+            </div>
+        }
+    }
+    else
     {
         <div class="slide-card">
-            <h4 class="poppins-regular-italic">%25 Sell</h4>
+            <h4 class="poppins-regular-italic">25% Sale</h4>
             <h1>Crafted royal comfort sofa</h1>
             <img src="~/assets/images/slider-img-3.png" alt="Crafted royal comfort sofa">
             <p>Experience the elegance of timeless craftsmanship with our Sofa.</p>
@@ -28,31 +42,49 @@
             </p>
         </div>
 
-        <div class="products-row">
-            <div class="product-card">
-                <div class="product-img-box">
-                    <img src="~/assets/images/collection-chair.png" alt="Modern Chair">
-                </div>
-                <h3>Modern Chair</h3>
-                <p><del>$59.00</del> $29.00</p>
+        @if (Model.Products.Any())
+        {
+            <div class="products-row">
+                @foreach (Product product in Model.Products)
+                {
+                    <div class="product-card">
+                        <div class="product-img-box">
+                            <img src="@Url.Content(product.ImageUrl)" alt="@product.Name">
+                        </div>
+                        <h3>@product.Name</h3>
+                        <p><del>@product.OldPrice.ToString("C")</del> @product.Price.ToString("C")</p>
+                    </div>
+                }
             </div>
+        }
+        else
+        {
+            <div class="products-row">
+                <div class="product-card">
+                    <div class="product-img-box">
+                        <img src="~/assets/images/collection-chair.png" alt="Modern Chair">
+                    </div>
+                    <h3>Modern Chair</h3>
+                    <p><del>$59.00</del> $29.00</p>
+                </div>
 
-            <div class="product-card">
-                <div class="product-img-box">
-                    <img src="~/assets/images/collection-lamp.png" alt="Floor Lamp">
+                <div class="product-card">
+                    <div class="product-img-box">
+                        <img src="~/assets/images/collection-lamp.png" alt="Floor Lamp">
+                    </div>
+                    <h3>Floor Lamp</h3>
+                    <p><del>$95.00</del> $89.00</p>
                 </div>
-                <h3>Floor Lamp</h3>
-                <p><del>$95.00</del> $89.00</p>
-            </div>
 
-            <div class="product-card">
-                <div class="product-img-box">
-                    <img src="~/assets/images/collection-boss-chair.png" alt="High Back Boss Chair">
+                <div class="product-card">
+                    <div class="product-img-box">
+                        <img src="~/assets/images/collection-boss-chair.png" alt="High Back Boss Chair">
+                    </div>
+                    <h3>High Back Boss Chair</h3>
+                    <p><del>$78.00</del> $68.00</p>
                 </div>
-                <h3>High Back Boss Chair</h3>
-                <p><del>$78.00</del> $68.00</p>
             </div>
-        </div>
+        }
 
         <div class="slider-dots">
             <span class="active-dot"></span>
@@ -84,4 +116,3 @@
         </form>
     </div>
 </section>
-<div>

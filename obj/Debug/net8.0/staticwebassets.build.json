@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SrL3vR/lpT5SQFEls2qKSfxKlLl1UiOsDvUGx63s3EI=",
+  "Hash": "y0FSQz1a9NVKFLjJnGY5JiNG+Ezp+j4YwLT79+PRufU=",
   "Source": "FurnishMvc",
   "BasePath": "_content/FurnishMvc",
   "Mode": "Default",
@@ -8,1251 +8,241 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "FurnishMvc\\wwwroot",
+      "Name": "FurnishMvc/wwwroot",
       "Source": "FurnishMvc",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\",
+      "ContentRoot": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/",
       "BasePath": "_content/FurnishMvc",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\css\\about.css",
+      "Identity": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/css/about.css",
       "SourceId": "FurnishMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\",
+      "ContentRoot": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/",
       "BasePath": "_content/FurnishMvc",
-      "RelativePath": "assets/css/about#[.{fingerprint}]?.css",
+      "RelativePath": "assets/css/about.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "doas9rlw8k",
-      "Integrity": "85X5+BSKAJTgBsEvUgBjLWI21g9A3DF07Ik16dTege8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\css\\about.css"
+      "OriginalItemSpec": "wwwroot/assets/css/about.css"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\css\\global.css",
+      "Identity": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/css/global.css",
       "SourceId": "FurnishMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\",
+      "ContentRoot": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/",
       "BasePath": "_content/FurnishMvc",
-      "RelativePath": "assets/css/global#[.{fingerprint}]?.css",
+      "RelativePath": "assets/css/global.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "d1q0zyt0le",
-      "Integrity": "0R7NVyEArbA81pMnfRR6Cw6WYKvmJ0+JuDGjfVMfxT4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\css\\global.css"
+      "OriginalItemSpec": "wwwroot/assets/css/global.css"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\about-store.jpg",
+      "Identity": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/images/about-store.jpg",
       "SourceId": "FurnishMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\",
+      "ContentRoot": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/",
       "BasePath": "_content/FurnishMvc",
-      "RelativePath": "assets/images/about-store#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/images/about-store.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "w4d3w0y40x",
-      "Integrity": "wFrsIv1K/aPkOY5R25k0fS80VEUpJ2+RWarsscJGeHw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\about-store.jpg"
+      "OriginalItemSpec": "wwwroot/assets/images/about-store.jpg"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\collection-boss-chair.png",
+      "Identity": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/images/collection-boss-chair.png",
       "SourceId": "FurnishMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\",
+      "ContentRoot": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/",
       "BasePath": "_content/FurnishMvc",
-      "RelativePath": "assets/images/collection-boss-chair#[.{fingerprint}]?.png",
+      "RelativePath": "assets/images/collection-boss-chair.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "nb0iyzzvy8",
-      "Integrity": "I5DTOWSJ9e59CoZyQyudJbueJ57o5iLaHVxlnM8cOB0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\collection-boss-chair.png"
+      "OriginalItemSpec": "wwwroot/assets/images/collection-boss-chair.png"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\collection-chair.png",
+      "Identity": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/images/collection-chair.png",
       "SourceId": "FurnishMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\",
+      "ContentRoot": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/",
       "BasePath": "_content/FurnishMvc",
-      "RelativePath": "assets/images/collection-chair#[.{fingerprint}]?.png",
+      "RelativePath": "assets/images/collection-chair.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "q9wsv6bmi8",
-      "Integrity": "XhmQMLwfSLk6yuSzV9YMHtrXYykkVh4skzZ9blCFR58=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\collection-chair.png"
+      "OriginalItemSpec": "wwwroot/assets/images/collection-chair.png"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\collection-lamp.png",
+      "Identity": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/images/collection-lamp.png",
       "SourceId": "FurnishMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\",
+      "ContentRoot": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/",
       "BasePath": "_content/FurnishMvc",
-      "RelativePath": "assets/images/collection-lamp#[.{fingerprint}]?.png",
+      "RelativePath": "assets/images/collection-lamp.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "pyxy7vpl97",
-      "Integrity": "jwzhJ4afNuCrZTheTI0obDsO+kvy2rZaPZb9aD1GIrk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\collection-lamp.png"
+      "OriginalItemSpec": "wwwroot/assets/images/collection-lamp.png"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\slider-img-3.png",
+      "Identity": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/images/slider-img-3.png",
       "SourceId": "FurnishMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\",
+      "ContentRoot": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/",
       "BasePath": "_content/FurnishMvc",
-      "RelativePath": "assets/images/slider-img-3#[.{fingerprint}]?.png",
+      "RelativePath": "assets/images/slider-img-3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "em84ckxnlu",
-      "Integrity": "Ws/uSMqBWkHNAnbrs6QJX3KflYiXI127j4TIQ2K7vv0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\slider-img-3.png"
+      "OriginalItemSpec": "wwwroot/assets/images/slider-img-3.png"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\team-1.jpg",
+      "Identity": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/images/team-1.jpg",
       "SourceId": "FurnishMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\",
+      "ContentRoot": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/",
       "BasePath": "_content/FurnishMvc",
-      "RelativePath": "assets/images/team-1#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/images/team-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "nrj616y5f4",
-      "Integrity": "k4Lk1qqK9I5ZKxQ1o2+HuW8pTrP7e918busYz9GTP+w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\team-1.jpg"
+      "OriginalItemSpec": "wwwroot/assets/images/team-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\team-2.jpg",
+      "Identity": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/images/team-2.jpg",
       "SourceId": "FurnishMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\",
+      "ContentRoot": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/",
       "BasePath": "_content/FurnishMvc",
-      "RelativePath": "assets/images/team-2#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/images/team-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vxo6cpbzst",
-      "Integrity": "w8M6vT6POeI0ve2IRFym4WPgc2m7gEe5uQGSvB7iv9g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\team-2.jpg"
+      "OriginalItemSpec": "wwwroot/assets/images/team-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\team-3.jpg",
+      "Identity": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/images/team-3.jpg",
       "SourceId": "FurnishMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\",
+      "ContentRoot": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/",
       "BasePath": "_content/FurnishMvc",
-      "RelativePath": "assets/images/team-3#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/images/team-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "q6o3z6werj",
-      "Integrity": "zgfs9Ebv2R+oteiX2ZDODWWMqs1YinAOxrpW+/h1gZ4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\team-3.jpg"
+      "OriginalItemSpec": "wwwroot/assets/images/team-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\team-4.jpg",
+      "Identity": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/images/team-4.jpg",
       "SourceId": "FurnishMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\",
+      "ContentRoot": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/",
       "BasePath": "_content/FurnishMvc",
-      "RelativePath": "assets/images/team-4#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/images/team-4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "196aof8fz3",
-      "Integrity": "JTLLx6Z94DFDbVyQ/A3QOD0h5iR2qT2nBkQtcdQX3mg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\team-4.jpg"
+      "OriginalItemSpec": "wwwroot/assets/images/team-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\testimonial-bg.jpg",
+      "Identity": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/assets/images/testimonial-bg.jpg",
       "SourceId": "FurnishMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\",
+      "ContentRoot": "/Users/aydansrifova/Desktop/FurnishMvc/wwwroot/",
       "BasePath": "_content/FurnishMvc",
-      "RelativePath": "assets/images/testimonial-bg#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/images/testimonial-bg.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "f0v90t4rob",
-      "Integrity": "wWbDtMw6RdHn6yszvr9n9n7DS5ItGVYdisjzw6KZrOM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\testimonial-bg.jpg"
-    }
-  ],
-  "Endpoints": [
-    {
-      "Route": "assets/css/about.css",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\css\\about.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3848"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"85X5+BSKAJTgBsEvUgBjLWI21g9A3DF07Ik16dTege8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 09:05:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-85X5+BSKAJTgBsEvUgBjLWI21g9A3DF07Ik16dTege8="
-        }
-      ]
-    },
-    {
-      "Route": "assets/css/about.doas9rlw8k.css",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\css\\about.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3848"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"85X5+BSKAJTgBsEvUgBjLWI21g9A3DF07Ik16dTege8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 09:05:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "doas9rlw8k"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/css/about.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-85X5+BSKAJTgBsEvUgBjLWI21g9A3DF07Ik16dTege8="
-        }
-      ]
-    },
-    {
-      "Route": "assets/css/global.css",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\css\\global.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9032"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0R7NVyEArbA81pMnfRR6Cw6WYKvmJ0+JuDGjfVMfxT4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 08:44:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0R7NVyEArbA81pMnfRR6Cw6WYKvmJ0+JuDGjfVMfxT4="
-        }
-      ]
-    },
-    {
-      "Route": "assets/css/global.d1q0zyt0le.css",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\css\\global.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9032"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0R7NVyEArbA81pMnfRR6Cw6WYKvmJ0+JuDGjfVMfxT4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 08:44:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "d1q0zyt0le"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/css/global.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-0R7NVyEArbA81pMnfRR6Cw6WYKvmJ0+JuDGjfVMfxT4="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/about-store.jpg",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\about-store.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "855079"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wFrsIv1K/aPkOY5R25k0fS80VEUpJ2+RWarsscJGeHw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 09:06:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wFrsIv1K/aPkOY5R25k0fS80VEUpJ2+RWarsscJGeHw="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/about-store.w4d3w0y40x.jpg",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\about-store.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "855079"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wFrsIv1K/aPkOY5R25k0fS80VEUpJ2+RWarsscJGeHw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 09:06:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "w4d3w0y40x"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/about-store.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wFrsIv1K/aPkOY5R25k0fS80VEUpJ2+RWarsscJGeHw="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/collection-boss-chair.nb0iyzzvy8.png",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\collection-boss-chair.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "346395"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"I5DTOWSJ9e59CoZyQyudJbueJ57o5iLaHVxlnM8cOB0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 08:51:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "nb0iyzzvy8"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/collection-boss-chair.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-I5DTOWSJ9e59CoZyQyudJbueJ57o5iLaHVxlnM8cOB0="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/collection-boss-chair.png",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\collection-boss-chair.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "346395"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"I5DTOWSJ9e59CoZyQyudJbueJ57o5iLaHVxlnM8cOB0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 08:51:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-I5DTOWSJ9e59CoZyQyudJbueJ57o5iLaHVxlnM8cOB0="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/collection-chair.png",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\collection-chair.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "155389"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XhmQMLwfSLk6yuSzV9YMHtrXYykkVh4skzZ9blCFR58=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 08:47:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-XhmQMLwfSLk6yuSzV9YMHtrXYykkVh4skzZ9blCFR58="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/collection-chair.q9wsv6bmi8.png",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\collection-chair.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "155389"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XhmQMLwfSLk6yuSzV9YMHtrXYykkVh4skzZ9blCFR58=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 08:47:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "q9wsv6bmi8"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/collection-chair.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XhmQMLwfSLk6yuSzV9YMHtrXYykkVh4skzZ9blCFR58="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/collection-lamp.png",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\collection-lamp.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "66254"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"jwzhJ4afNuCrZTheTI0obDsO+kvy2rZaPZb9aD1GIrk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 08:50:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-jwzhJ4afNuCrZTheTI0obDsO+kvy2rZaPZb9aD1GIrk="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/collection-lamp.pyxy7vpl97.png",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\collection-lamp.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "66254"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"jwzhJ4afNuCrZTheTI0obDsO+kvy2rZaPZb9aD1GIrk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 08:50:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pyxy7vpl97"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/collection-lamp.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-jwzhJ4afNuCrZTheTI0obDsO+kvy2rZaPZb9aD1GIrk="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/slider-img-3.em84ckxnlu.png",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\slider-img-3.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "295522"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ws/uSMqBWkHNAnbrs6QJX3KflYiXI127j4TIQ2K7vv0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Apr 2026 08:20:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "em84ckxnlu"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/slider-img-3.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ws/uSMqBWkHNAnbrs6QJX3KflYiXI127j4TIQ2K7vv0="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/slider-img-3.png",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\slider-img-3.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "295522"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ws/uSMqBWkHNAnbrs6QJX3KflYiXI127j4TIQ2K7vv0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Apr 2026 08:20:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ws/uSMqBWkHNAnbrs6QJX3KflYiXI127j4TIQ2K7vv0="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/team-1.jpg",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\team-1.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "70649"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"k4Lk1qqK9I5ZKxQ1o2+HuW8pTrP7e918busYz9GTP+w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 09:07:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-k4Lk1qqK9I5ZKxQ1o2+HuW8pTrP7e918busYz9GTP+w="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/team-1.nrj616y5f4.jpg",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\team-1.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "70649"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"k4Lk1qqK9I5ZKxQ1o2+HuW8pTrP7e918busYz9GTP+w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 09:07:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "nrj616y5f4"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/team-1.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-k4Lk1qqK9I5ZKxQ1o2+HuW8pTrP7e918busYz9GTP+w="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/team-2.jpg",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\team-2.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "76342"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"w8M6vT6POeI0ve2IRFym4WPgc2m7gEe5uQGSvB7iv9g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 09:07:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-w8M6vT6POeI0ve2IRFym4WPgc2m7gEe5uQGSvB7iv9g="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/team-2.vxo6cpbzst.jpg",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\team-2.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "76342"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"w8M6vT6POeI0ve2IRFym4WPgc2m7gEe5uQGSvB7iv9g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 09:07:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vxo6cpbzst"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/team-2.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-w8M6vT6POeI0ve2IRFym4WPgc2m7gEe5uQGSvB7iv9g="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/team-3.jpg",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\team-3.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "71426"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zgfs9Ebv2R+oteiX2ZDODWWMqs1YinAOxrpW+/h1gZ4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 09:07:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zgfs9Ebv2R+oteiX2ZDODWWMqs1YinAOxrpW+/h1gZ4="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/team-3.q6o3z6werj.jpg",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\team-3.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "71426"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zgfs9Ebv2R+oteiX2ZDODWWMqs1YinAOxrpW+/h1gZ4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 09:07:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "q6o3z6werj"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/team-3.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-zgfs9Ebv2R+oteiX2ZDODWWMqs1YinAOxrpW+/h1gZ4="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/team-4.196aof8fz3.jpg",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\team-4.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "70583"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JTLLx6Z94DFDbVyQ/A3QOD0h5iR2qT2nBkQtcdQX3mg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 09:07:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "196aof8fz3"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/team-4.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-JTLLx6Z94DFDbVyQ/A3QOD0h5iR2qT2nBkQtcdQX3mg="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/team-4.jpg",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\team-4.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "70583"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JTLLx6Z94DFDbVyQ/A3QOD0h5iR2qT2nBkQtcdQX3mg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 09:07:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-JTLLx6Z94DFDbVyQ/A3QOD0h5iR2qT2nBkQtcdQX3mg="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/testimonial-bg.f0v90t4rob.jpg",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\testimonial-bg.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8142612"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wWbDtMw6RdHn6yszvr9n9n7DS5ItGVYdisjzw6KZrOM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 08:52:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "f0v90t4rob"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/testimonial-bg.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wWbDtMw6RdHn6yszvr9n9n7DS5ItGVYdisjzw6KZrOM="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/testimonial-bg.jpg",
-      "AssetFile": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\wwwroot\\assets\\images\\testimonial-bg.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8142612"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wWbDtMw6RdHn6yszvr9n9n7DS5ItGVYdisjzw6KZrOM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Apr 2026 08:52:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wWbDtMw6RdHn6yszvr9n9n7DS5ItGVYdisjzw6KZrOM="
-        }
-      ]
+      "OriginalItemSpec": "wwwroot/assets/images/testimonial-bg.jpg"
     }
   ]
 }

@@ -1,0 +1,74 @@
+@model IEnumerable<Product>
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<div class="page-header">
+    <div>
+        <h1>Products</h1>
+        <p>Create and manage store products.</p>
+    </div>
+    <a class="btn btn-primary" asp-area="Admin" asp-controller="Products" asp-action="Create">Add Product</a>
+</div>
+
+<section class="panel">
+    @if (Model.Any())
+    {
+        <div class="table-wrap">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Image</th>
+                        <th>Name</th>
+                        <th>Category</th>
+                        <th>Price</th>
+                        <th>Old Price</th>
+                        <th>Stock</th>
+                        <th>Status</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (Product product in Model)
+                    {
+                        <tr>
+                            <td>
+                                @if (!string.IsNullOrWhiteSpace(product.ImageUrl))
+                                {
+                                    <img class="thumb" src="@product.ImageUrl" alt="@product.Name" />
+                                }
+                            </td>
+                            <td>@product.Name</td>
+                            <td>@product.Category?.Name</td>
+                            <td>@product.Price.ToString("C")</td>
+                            <td>@product.OldPrice.ToString("C")</td>
+                            <td>@product.StockCount</td>
+                            <td>
+                                @if (product.IsFeatured)
+                                {
+                                    <span class="badge badge-ok">Featured</span>
+                                }
+                                else
+                                {
+                                    <span class="badge badge-muted">Regular</span>
+                                }
+                            </td>
+                            <td>
+                                <div class="actions">
+                                    <a class="btn btn-light" asp-area="Admin" asp-controller="Products" asp-action="Details" asp-route-id="@product.Id">Details</a>
+                                    <a class="btn btn-primary" asp-area="Admin" asp-controller="Products" asp-action="Edit" asp-route-id="@product.Id">Edit</a>
+                                    <a class="btn btn-danger" asp-area="Admin" asp-controller="Products" asp-action="Delete" asp-route-id="@product.Id">Delete</a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+    else
+    {
+        <div class="empty-state">No products have been added yet.</div>
+    }
+</section>
