@@ -1,4 +1,6 @@
-﻿namespace FurnishMvc.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace FurnishMvc.Models
 {
     public class Product
     {
@@ -9,10 +11,9 @@
         public string Description { get; set; } = string.Empty;
 
         public decimal Price { get; set; }
+        public string? ImageUrl { get; set; }
 
         public decimal OldPrice { get; set; }
-
-        public string ImageUrl { get; set; } = string.Empty;
 
         public int StockCount { get; set; }
 
@@ -21,5 +22,8 @@
         public int CategoryId { get; set; }
 
         public Category Category { get; set; } = null!;
+
+        [NotMapped]
+        public IFormFile Photo { get; set; }
     }
 }

@@ -1,62 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\",
+  "WorkspaceRootPath": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\furnishmvc\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\portfolio\\furnishmvc\\areas\\admin\\views\\sliders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:areas\\admin\\views\\sliders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\furnishmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\portfolio\\furnishmvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\furnishmvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\portfolio\\furnishmvc\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\furnishmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\portfolio\\furnishmvc\\areas\\admin\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:areas\\admin\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\furnishmvc\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\portfolio\\furnishmvc\\areas\\admin\\views\\sliders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:areas\\admin\\views\\sliders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\furnishmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\portfolio\\furnishmvc\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\furnishmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\portfolio\\furnishmvc\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\furnishmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\portfolio\\furnishmvc\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\furnishmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\furnishmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\furnishmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\furnishmvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\furnishmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\portfolio\\furnishmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\furnishmvc\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\portfolio\\furnishmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\portfolio\\furnishmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\portfolio\\furnishmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\portfolio\\furnishmvc\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\portfolio\\furnishmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E27F69C3-BF9D-4EDB-A95E-68397BF4BC65}|FurnishMvc.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,183 +71,183 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Areas\\Admin\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Areas\\Admin\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T08:26:10.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\ViewModels\\HomeVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\ViewModels\\HomeVM.cs",
-              "RelativeToolTip": "ViewModels\\HomeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T08:17:54.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-13T07:46:07.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-13T08:06:28.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACgAAAACAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAQwHMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-13T08:02:49.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-13T08:02:28.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-13T08:02:12.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-13T08:01:54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Models\\Slider.cs",
-              "RelativeDocumentMoniker": "Models\\Slider.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Models\\Slider.cs",
-              "RelativeToolTip": "Models\\Slider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T07:56:35.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T07:56:20.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T07:51:36.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T07:50:18.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T07:48:15.646Z",
+              "WhenOpened": "2026-05-15T08:46:34.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\FurnishMvc\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T07:46:07.696Z",
+              "WhenOpened": "2026-05-15T08:46:31.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Areas\\Admin\\Views\\Sliders\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Sliders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Areas\\Admin\\Views\\Sliders\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Sliders\\Create.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAQwJ0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-15T08:45:35.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAYwLUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-15T08:16:22.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T08:12:05.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-15T07:46:06.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SlidersController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\SlidersController.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\SlidersController.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAwwKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:45:41.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAADwvzoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:43:06.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Models\\Slider.cs",
+              "RelativeToolTip": "Models\\Slider.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:29:26.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:24:30.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:20:44.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-15T07:15:36.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:14:08.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Portfolio\\FurnishMvc\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-15T07:02:44.409Z",
               "EditorCaption": ""
             }
           ]

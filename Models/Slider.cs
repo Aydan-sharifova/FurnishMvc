@@ -1,4 +1,6 @@
-﻿namespace FurnishMvc.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace FurnishMvc.Models
 {
     public class Slider
     {
@@ -12,7 +14,7 @@
 
         public decimal Price { get; set; }
 
-        public string ImageUrl { get; set; } = string.Empty;
+        public string? ImageUrl { get; set; } = string.Empty;
 
         public string ButtonText { get; set; } = string.Empty;
 
@@ -21,5 +23,8 @@
         public int Order { get; set; }
 
         public bool IsActive { get; set; }
+
+        [NotMapped]
+        public IFormFile? Photo { get; set; }
     }
 }

@@ -10,3 +10,4 @@ wwwroot\assets\images\team-2.jpg
 wwwroot\assets\images\team-3.jpg
 wwwroot\assets\images\team-4.jpg
 wwwroot\assets\images\testimonial-bg.jpg
+wwwroot\uploads\products\0d5d43e1-b636-49b6-b7f6-d7340fa724e7.jfif
